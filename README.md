@@ -3,10 +3,13 @@
 
 ```py
 
-◦ They fear the Lion!
+◦ They fear the h4xxe!
 
-◦ Lion @github
-
+◦ h4xxe @github
+<div align = "center">
+  <br><p align="center"><b>Visitors Count</b></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{h4xxe}/count.svg" /></p>
+</div>
 ```
 ```csharp
 
