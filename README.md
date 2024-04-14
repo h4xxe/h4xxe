@@ -21,11 +21,11 @@
 • 🌟 Main languages: C# and C++.
 ```
 
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,python,C#,C++,nodejs&theme=dark" />
+  </a>
+</p>
 
 <table align="center" border="0">
   <tr>
