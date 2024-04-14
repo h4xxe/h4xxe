@@ -22,9 +22,9 @@
 • 🌟 Main languages: C# and C++.
 ```
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=py,c#,cpp" />
   </a>
 </p>
 
