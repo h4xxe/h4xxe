@@ -27,12 +27,6 @@
        alt="snake" /></a>
 </div>
 
---------------------------------------
-										
- <p align="center"> Hi, I’m @Lion
-
---------------------------------------
-
 <table align="center" border="0">
   <tr>
     <td align="center">
