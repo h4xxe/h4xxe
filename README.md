@@ -23,7 +23,7 @@
 ```
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://youtube.com">
     <img src="https://skillicons.dev/icons?i=py,cpp,cs,bots,dotnet" />
   </a>
 </p>
