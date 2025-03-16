@@ -19,7 +19,7 @@
 ```
 
 <p align="center">
-  <a href="https://youtube.com">
+  <a href="https://stopped.gg">
     <img src="https://skillicons.dev/icons?i=py,cpp,cs,bots,dotnet" />
   </a>
 </p>
