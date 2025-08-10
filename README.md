@@ -2,9 +2,6 @@
 <p align='center'>
   <b>Hi 👋, I'm h4xxe</b><br>
 	
-<div align = "center">
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{h4xxe}/count.svg" /></p>
-</div>
 
 ```py
 
